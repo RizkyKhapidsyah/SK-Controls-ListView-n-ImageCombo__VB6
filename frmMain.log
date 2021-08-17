@@ -1,0 +1,6 @@
+Line 20: Class MSComctlLib.ImageCombo of control ImageCombo1 was not a loaded control class.
+Line 34: Class MSComctlLib.ImageList of control ilsIcons16 was not a loaded control class.
+Line 64: Class MSComctlLib.ImageList of control ilsIcons32 was not a loaded control class.
+Line 82: Class MSComctlLib.ListView of control ListView1 was not a loaded control class.
+Line 124: Class MSComctlLib.ImageList of control imlToolbarIcons was not a loaded control class.
+Line 166: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
